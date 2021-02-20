@@ -1,1 +1,1 @@
-# generative_art
+Collection of personal generative art experiments.
